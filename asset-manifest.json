@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/pixa_image_search/static/js/main.12d1e014.js",
+    "main.css": "/pixa_image_search/static/css/main.4b275375.css",
+    "main.js": "/pixa_image_search/static/js/main.21dcbd0b.js",
     "index.html": "/pixa_image_search/index.html",
-    "main.12d1e014.js.map": "/pixa_image_search/static/js/main.12d1e014.js.map"
+    "main.4b275375.css.map": "/pixa_image_search/static/css/main.4b275375.css.map",
+    "main.21dcbd0b.js.map": "/pixa_image_search/static/js/main.21dcbd0b.js.map"
   },
   "entrypoints": [
-    "static/js/main.12d1e014.js"
+    "static/css/main.4b275375.css",
+    "static/js/main.21dcbd0b.js"
   ]
 }
